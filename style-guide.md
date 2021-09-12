@@ -9,6 +9,10 @@ The designs were created to the following widths:
 
 ## Colors
 
+## Images
+
+- Lottie https://lottiefiles.com/
+
 ### Primary
 
 - Violet: hsl(257, 40%, 49%)
