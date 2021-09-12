@@ -28,11 +28,15 @@ header {
     max-width: 1430px;
     margin: 0 auto;
     height: 80px;
-    padding: 40px;
+    padding: 40px 40px 0px 40px;
 }
 
-header img {
-    width: 150px;
+header > span {
+    font-size: 2.5rem;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    color: white;
+    padding-top: 22px;
 }
 
 main {

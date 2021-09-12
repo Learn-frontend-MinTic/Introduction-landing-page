@@ -6,8 +6,15 @@ body {
 }
 
 header {
-    height: 120px;
+    height: 140px;
+}
 
+header > span {
+    font-size: 2.5rem;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    color: white;
+    padding-top: 22px;
 }
 
 
