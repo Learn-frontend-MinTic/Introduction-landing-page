@@ -6,29 +6,31 @@ body {
 }
 
 header {
-    height: 140px;
+    height: 120px;
+
 }
 
-header img {
-    width: 200px;
-}
 
 main {
     height: 80vh;
     grid-template-columns: 50% 50%;
     align-content: center;
     padding-top: 0;
+    padding: 40px;
 }
+
+
 
 .main--img-container {
     display: grid;
     align-content: center;
-    padding-right: 45px;
-    align-content: center;
+  
 }
 
 .main--info-container {
     text-align: left;
+    padding: 25px;
+    margin-top: 50px;
 }
 
 .main--info-container h1 {
@@ -42,6 +44,7 @@ main {
 .main--info-container button {
     width: 200px;
     font-size: 1.6rem;
+    
 }
 
 .info--icon-container {
@@ -50,4 +53,13 @@ main {
     justify-self: end;
     margin: 0;
     margin-top: 50px;
+}
+
+.info--icon-container .redes {
+    color: white;
+    width: 45px;
+    height: 45px;
+    padding-top: 9px;
+    text-align: center;
+    font-size: 3.8rem;
 }
