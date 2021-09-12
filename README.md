@@ -1,9 +1,10 @@
 # Introduction landing page 
 
-![Design preview for the landing page](./design/desktop-preview.PNG)
-
-![Design preview for the landing page](./design/mobile-preview.PNG)
-
 ## Welcome! 👋
+
+This is landing page of introduction :3
+
+
+![Design preview for the landing page](./design/preview.png)
 
 
