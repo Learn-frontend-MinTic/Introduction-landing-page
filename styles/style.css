@@ -41,6 +41,14 @@ header > span {
     padding-top: 22px;
 }
 
+button > a {
+    text-decoration: none;
+    color: #0E091F;;
+    
+
+}
+
+
 main {
     display: grid;
     width: 100%;
