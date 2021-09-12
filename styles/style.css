@@ -1,7 +1,6 @@
 :root {
-    color: var(--primary-colo, #4a0368);
+    color: var(--primary-color, #4a0368);
 }
-
 
 * {
     box-sizing: border-box;
